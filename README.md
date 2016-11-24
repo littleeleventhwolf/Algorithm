@@ -1,0 +1,2 @@
+# Algorithm
+Common algorithm implementation.
