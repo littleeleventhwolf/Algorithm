@@ -11,6 +11,6 @@
 typedef enum Token_ {lexit, error, digit, other} Token;
 
 /* Public Interface */
-Token lex(const char *istream, CHTbl *symbol);
+Token lex(const char *istream, CHTbl *symtbl);
 
 #endif // LEX_H
